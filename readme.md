@@ -22,8 +22,9 @@ weather-app/ ├── frontend/ # Next.js + Tailwind + RippleUI ├── backe
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/isiji/weather-app.git
-cd weather-app
+git clone https://github.com/Isiji/pawa_weather_app.git
+cd pawa_weather_app
+git submodule update --init --recursive
 
 #set up each part
 
